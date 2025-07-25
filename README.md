@@ -7,7 +7,7 @@ pip install matplotlib pandas numpy
 pip install seaborn
 
 
-Disfruta este script cualquier pip que te haga falta instalalo
+Disfruta este script cualquier pip que te haga falta instalalo, busca el pip en internet.
 
 
 Este indicador tiene lo siguiente:
