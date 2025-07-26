@@ -1,6 +1,11 @@
 # PyPrediccionBybit
 Programa echo con python para predecir el mercado del exchange Bybit - Totalmente Gratis
 
+
+VIDEO EXPLICANDO EL INDICADOR: 
+https://www.youtube.com/watch?v=163yPGgNvqQ
+
+
 Necesitaras lo siguiente, instalar python, despues debes intalar las siguientes librerias:
 
 pip install matplotlib pandas numpy
